@@ -225,7 +225,6 @@ button:hover::before {
 .card {
   background: #fff;
   border: 1px solid #dbe3eb;
-  padding: 10px;
   cursor: pointer;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
